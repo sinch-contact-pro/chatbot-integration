@@ -1,0 +1,14 @@
+{
+        "baseUrl": "your-region.your-domain",
+        "port": 443,
+        "authUri": "/yourtenant/ecfs/authentication",
+        "username": "your-user-name",
+        "password": "your-password",
+        "originator": "",
+        "alias": "",
+        "message": "Hello from agent bot",
+        "webSocketUrl": "wss://your-region.your-domain/yourtenant/ecfs/ws_endpoint/",
+        "origin": "wss://your-region.your-domain/",
+        "protocolVersion": 13,
+        "destination": "your-queue-address"
+}
